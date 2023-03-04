@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React app updates via Github via OpenShift on AWS!!!! Hi team!!!
+          React app updates via Github via OpenShift on AWS!!!! Hello!
         </p>
 
       </header>
